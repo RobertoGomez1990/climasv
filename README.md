@@ -76,7 +76,7 @@ npm run start      # sirve la compilación tras build
 
 | Elemento | Estado |
 | --- | --- |
-| Repositorio público de GitHub | **PENDIENTE**: no hay remoto configurado ni commits. |
+| Repositorio público de GitHub | [RobertoGomez1990/climasv](https://github.com/RobertoGomez1990/climasv) — `main` publicado; varios commits descriptivos. |
 | URL pública de Vercel | **PENDIENTE**: no se ha desplegado ni probado una URL pública. |
 | Autor | **PENDIENTE** de completar por el estudiante en `/acerca`. |
 | Validación manual personal del estudiante | **PENDIENTE** de documentar por el estudiante. |
